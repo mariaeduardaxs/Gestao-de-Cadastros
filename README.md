@@ -1,6 +1,8 @@
 # Gestao-de-Cadastros
 
-Criação de um sistema e-commerce para inventário de produtos e dados de clientes como parte do Desafio 2 do programa Hiring Coders.
+Criação de um sistema para inventário de produtos e dados de clientes como parte do Desafio 2 do programa Hiring Coders.
+
+O projeto foi pensado para a loja legostore (criada no Desafio 1).
 
 Entregáveis:
 
