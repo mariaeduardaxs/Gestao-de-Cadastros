@@ -7,11 +7,9 @@ Entregáveis:
 - Os dados de clientes, endereços e produtos devem estar devidamente estruturados
 - Dados no localstorage
 - Código fonte no github com o arquivo README detalhando as funcionalidades da programação
-- Deploy na Netlify
+- Deploy na Netlify: https://cadastro-legostore.netlify.app/
 
 P.S.:A logo e as imagens foram encontradas no Google. Nao é uma página oficial da Lego®.
-
-# Link do projeto: https://cadastro-legostore.netlify.app/
 
 💻 Como contribuir
 
