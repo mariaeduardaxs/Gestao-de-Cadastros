@@ -1,18 +1,18 @@
 header {
-    display:flex;
+    display: flex;
     justify-content: space-between;
-    align-items:center
+    align-items: center
 }
 
 main {
     margin: 10vh auto 0;
     width: 40%;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 
 form {
     background-color: #ccc;
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 12px;
     height: 100%;
     text-align: center;
@@ -26,7 +26,7 @@ form input {
     padding: 16px;
     border: 1px solid #ccc;
     transition: none;
-    border-radius: 0 8px 8px 0;
+    border-radius: 8px;
 }
 
 form input:focus{
