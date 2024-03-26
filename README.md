@@ -11,7 +11,8 @@ Entregáveis:
 - Código fonte no github com o arquivo README detalhando as funcionalidades da programação
 - Deploy na Netlify: https://cadastro-legostore.netlify.app/
 
-P.S.:A logo e as imagens foram encontradas no Google. Nao é uma página oficial da Lego®.
+P.S.:A logo e as imagens foram encontradas no Google. Nao é uma página oficial da Lego® (todos os direitos autorais reservados);
+Layout elaborado exclusivamente para desktop. :/
 
 💻 Como contribuir
 
